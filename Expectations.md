@@ -7,7 +7,7 @@ based on what works for both parties and their respective needs/schedules.
 
 However, we still expect that:
 
-- Mentors and mentees contact one another and set terms **prior to the first co-working/intro session**.
+- Mentors and mentees contact one another and set terms **prior to the second co-working/intro session at the latest**.
 - Mentors and mentees are both fully aware of and fully agree to the conditions set between them.
 - All involved parties involved abide by the [Code of Conduct][conduct], both during UofT Coders events and in their own within-group communications. 
 
