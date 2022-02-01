@@ -1,4 +1,4 @@
-# UofT Coders Peer Mentorship - Spring 2020
+# UofT Coders Peer Mentorship - Spring 2022
 
 Welcome! This repository contains information about UofT Coders Peer Mentorship 
 program for both mentors and mentees.
@@ -15,8 +15,8 @@ and encouraged to expand upon these expectations to better suit their own needs 
 
 Date | Event | Presenter (if applicable)
 -- | -- | --
-Mar 5 | Co-working session | UofT Coders Exec
-Mar 19 | Co-working session | --
-Apr 2 | Co-working session | --
-Apr 16 | Co-working session | --
-Apr 30 | End-of-Term Social | --
+Feb 2 | Peer mentorship kickoff | UofT Coders Exec
+Feb 9 | Co-working session | --
+Feb 16 | Co-working session | --
+Mar 9 | Co-working session | --
+Apr 6 | Peer mentorship wrap-up | --
