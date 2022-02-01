@@ -11,6 +11,7 @@ However, we still expect that:
 - Mentors and mentees are both fully aware of and fully agree to the conditions set between them.
 - All involved parties involved abide by the [Code of Conduct][conduct], both during UofT Coders events and in their own within-group communications. 
 - Mentors and mentees attend at least one co-working session during the term.
+- Mentors and mentees are required to complete minimum of 3 one-on-one meetings/interactions (virtual or in-person)
 
 We also encourage that:
 
